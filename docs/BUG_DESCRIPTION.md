@@ -141,3 +141,9 @@ Latest tested firmware:
 Result:
 
 **Bug still present.**
+
+## Notes
+
+This document intentionally focuses only on observed and reproducible behaviour.
+
+No assumptions are made regarding the internal firmware implementation beyond what has been experimentally verified.
