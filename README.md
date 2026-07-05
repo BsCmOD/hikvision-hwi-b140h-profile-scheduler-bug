@@ -22,6 +22,8 @@ However, the camera internally continues using the previous Night profile ISP pa
 
 The issue has been reproduced multiple times on different firmware versions, including the latest firmware available at the time this repository was created.
 
+The repository includes an example monthly scheduler XML under the examples/ directory. Do not use it as-is; adapt the schedule to your local sunrise and sunset times.
+
 ---
 
 # Affected Models
