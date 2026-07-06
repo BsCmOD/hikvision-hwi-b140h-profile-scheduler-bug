@@ -80,17 +80,10 @@ Modify the following parameters:
 
 ```bash
 NVR_IP="192.168.1.253"
-USER="admin"
+USER="YOUR_USER"
 PASS="YOUR_PASSWORD"
 
-PORTE=(
-65001
-65002
-65003
-65004
-65005
-65006
-)
+PORTE=(65001 65002 65003 65004 65005 65006)
 ```
 
 Adjust the monthly schedule according to your installation.
