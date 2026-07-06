@@ -132,6 +132,7 @@ docs/
     TROUBLESHOOTING.md
 
 script/
+    monthly_schedule_example.xml
     sblocco_camere.sh
 ```
 
