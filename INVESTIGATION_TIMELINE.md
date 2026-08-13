@@ -124,3 +124,22 @@ The workaround documented in this repository is currently the most reliable solu
 It does not modify the firmware and relies exclusively on officially supported Hikvision ISAPI commands.
 
 The repository will be updated if Hikvision releases a firmware version that permanently fixes the issue.
+
+---
+
+## Firmware V5.7.25_260714
+
+A newer firmware build became available for the HWI-B140H.
+
+All cameras were upgraded to firmware V5.7.25_260714 and the scheduled Day/Night profile switching was tested again.
+
+The issue remains unchanged:
+
+- The scheduled profile changes as expected.
+- The ISP parameters are not correctly reloaded.
+- The image remains incorrect after the automatic transition.
+- The Raspberry Pi ISAPI workaround is still required.
+
+**Result: the firmware update does not fix the issue.**
+
+At the time of this update, V5.7.25_260714 is the latest firmware version tested.
