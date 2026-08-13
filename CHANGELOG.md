@@ -35,3 +35,11 @@ This release documents a firmware issue where scheduled image profile changes
 
 The included workaround relies exclusively on official Hikvision ISAPI
 commands and does not modify the camera firmware.
+
+## Unreleased
+
+### Tested
+
+- Firmware V5.7.25_260714 tested on HWI-B140H cameras.
+- Scheduled Day/Night profile switching still fails to reload ISP parameters.
+- Raspberry Pi ISAPI workaround remains necessary.
