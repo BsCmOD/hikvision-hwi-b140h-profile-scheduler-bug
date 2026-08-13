@@ -95,3 +95,27 @@ Latest firmware tested:
 Result:
 
 **Bug still present.**
+
+---
+
+## Firmware V5.7.25_260714
+
+A newer firmware build became available for the HWI-B140H.
+
+All cameras were upgraded from the previously tested firmware.
+
+The scheduled Day/Night profile switching issue was tested again.
+
+**Result: the bug is still present.**
+
+The Raspberry Pi ISAPI workaround remains necessary.
+
+## Current Status
+
+Latest firmware tested:
+
+**V5.7.25_260714**
+
+Result:
+
+**Bug still present.**
