@@ -25,7 +25,7 @@ The following camera models have been tested:
 |-----------------|--------------|--------|------|
 | V5.7.23_241211 | 2024-12-11 | ❌ Bug Present | Scheduled profile switching does not reload ISP parameters. |
 | V5.7.25_260401 | 2026-04-01 | ❌ Bug Present | Behaviour identical to previous firmware. |
-
+| V5.7.25_260714 | 2024-07-14 | ❌ Bug Present | Bug still present after firmware update. |
 ---
 
 # Test Procedure
