@@ -44,6 +44,7 @@ Other models may also be affected but have not been tested.
 | V5.7.23_241211 | ❌ Bug present |
 | V5.7.25_260401 | ❌ Bug still present |
 | V5.7.25_260714 | ❌ Bug still present |
+| V5.7.26_260827 | ⚠️ Release notes available, no reference to image problem fixing |
 
 More detailed firmware information is available in:
 
